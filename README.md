@@ -1,16 +1,3 @@
 # repoBotTest
 Prueba de repositorio
 hola como estas
-mexico,mexico
-popiojkhkjkjhkjjhjhvnvhhcbvcgvc
-jkkjlkkjhjhkjhkjg
-kjghjgjhghjgjhgjhgjhghjg
-bjkbmbmbmnbmnbmnbmnbmnb
-kkjhkjhkjlhkjhkjhkjhkjh
-llll
-cambiosllslslallsalsas
-asasasas
-dfdfdfdfdfdf
-ddd
-eeeeeee
-8889989dddddd
