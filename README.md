@@ -1,14 +1,5 @@
-# repoBotTest
-Prueba de repositorio
-hola como estas
-mexico,mexico
-popiojkhkjkjhkjjhjhvnvhhcbvcgvc
-jkkjlkkjhjhkjhkjg
-kjghjgjhghjgjhgjhgjhghjg
-bjkbmbmbmnbmnbmnbmnbmnb
-kkjhkjhkjlhkjhkjhkjhkj
-5555454545
-ghghgfhgfhgfhgfhgfh
-123456789698744
-1212121212
-this is a testing 234
+# Hello this is Header
+
+**This is a bold text**
+
+This is normal next 
